@@ -1,7 +1,6 @@
 <div align="center">
 <p>
    <a align="left" href="https://ultralytics.com/yolov5" target="_blank">
-   <img width="850" src="https://github.com/ultralytics/yolov5/releases/download/v1.0/splash.jpg"></a>
 </p>
 <br>
 <div>
@@ -16,8 +15,7 @@
 
 <br>
 <p>
-YOLOv5 🚀 is a family of object detection architectures and models pretrained on the COCO dataset, and represents <a href="https://ultralytics.com">Ultralytics</a>
- open-source research into future vision AI methods, incorporating lessons learned and best practices evolved over thousands of hours of research and development.
+Our object use the public and private datasets of most of the SAR ship detection on the network to integrate and train a baseline model of yolov5, and on this basis, the SAR image and yolov5 were adjusted for generalization testing.
 </p>
 
 <div align="center">
